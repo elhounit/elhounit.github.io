@@ -21,7 +21,7 @@
 
 Utilised Python and its powerful data analysis libraries to conduct an extensive study on global temperature data, spanning from 1880 to the present. This project involved a detailed analysis of monthly and annual temperature anomalies, revealing significant long-term warming trends across the globe. By employing statistical techniques like linear regression, the study confirmed the rising temperature patterns with a high degree of statistical significance (R-squared > 0.9). The analysis highlighted that certain months showed more pronounced temperature increases, suggesting a nuanced pattern of global warming. This project not only reaffirms the ongoing phenomenon of global climate change but also emphasises the capability of Python-based analysis to extract meaningful insights from large-scale environmental datasets. The findings underscore the critical need for policy-driven responses to climate change, offering a data-driven foundation for understanding the intricate dynamics of our planet's climate system.
 
-![Global Climate Patterns](/assets/img/eeg_band_discovery.jpeg)
+![Global Climate Patterns](/assets/img/climate_trend.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
