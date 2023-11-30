@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, R...
 
 ## Education
-- MSc, Heath Data Science	|  University of Manchester (_November 2023_)	 			        		
+- MSc, Heath Data Science	       |  University of Manchester (_November 2023_)	 			        		
 - BSc (Hons), Biomedical Science |  University of Salford (_June 2021_)
 
 ## Projects
